@@ -1,4 +1,3 @@
-# DA_Project_fraud-detection
 # 🔍 Financial Fraud Detection — Real-Time Transaction Risk Scoring
 
 > **End-to-end fraud detection pipeline that identifies 97% of fraudulent transactions across 284K+ records — combining machine learning, threshold optimization, and business impact analysis to deliver $55,002 in net benefit.**
