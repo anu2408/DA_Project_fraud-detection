@@ -214,6 +214,7 @@ fraud-detection/
 ## 👤 Author
 
 **Anushka Pataskar**
+
 Data Analyst · Machine Learning · Financial Analytics · Python · SQL
 
 ---
